@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "DL2\\": "src"
+    }
+  },
+  "require-dev": {
+    "vimeo/psalm": "^3@dev"
+  },
+  "scripts": {
+    "psalm": "psalm"
+  }
+}
